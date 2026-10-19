@@ -15,7 +15,7 @@ The project studies a commodity transportation problem and develops an optimizat
 Python · Operations Research · Optimization · Data Analysis
 
 # Project Structure
-Data/ contains project data
-Results/ contains generated results
-vessel_scheduling.py contains the main scheduling implementation
-The project report provides the full methodology and analysis
+- `Data/` contains project data
+- `Results/` contains generated results
+- `optimization_code.py` contains the implementation
+- The project report provides the full methodology and analysis
