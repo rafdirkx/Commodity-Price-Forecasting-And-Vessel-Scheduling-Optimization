@@ -12,7 +12,7 @@ The project studies a commodity transportation problem and develops an optimizat
 * Evaluation of optimization results
 
 # Tools
-Python · Operations Research · Optimization · Data Analysis
+Python · Forecasting · Operations Research · Optimization · Data Analysis
 
 # Project Structure
 - `Data/` contains project data
